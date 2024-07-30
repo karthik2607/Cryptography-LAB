@@ -1,4 +1,7 @@
+//Rail fense algorithm.
 package RailFence;
+
+
 import java.util.*;
 import java.io.*;
 import java.net.*;
