@@ -34,6 +34,7 @@ static String encrypt(String str, String key)
     return cipher_text;
 }
 
+
 static String LowerToUpper(String s)
 {
     StringBuffer str =new StringBuffer(s); 

@@ -68,6 +68,7 @@ def bin2dec(binary):
         decimal = decimal + dec * pow(2, i)
         binary = binary // 10
         i += 1
+        
     return decimal
 
 
